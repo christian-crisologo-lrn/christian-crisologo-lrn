@@ -4,13 +4,13 @@
 
 ![image](https://github.com/christian-crisologo-lrn/christian-crisologo-lrn/blob/master/banner.gif)
 
-### "Beep...beep...beep..err!" 
-#### - Broken radio Bumblebee 
 
-### "WE MUST HAVE COURAGE. WE CAN'T IGNORE THE DANGER. WE MUST CONQUER IT."
-#### - Optimus Prime
+#### "WE MUST HAVE COURAGE. WE CAN'T IGNORE THE DANGER. WE MUST CONQUER IT."  - Optimus Prime
 
--
+
+#### "Beep...beep...beep..err!"   - Broken radio Bumblebee 
+
+## Secret code of life
 
 ```
   while (working){
