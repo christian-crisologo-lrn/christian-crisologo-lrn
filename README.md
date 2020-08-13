@@ -5,4 +5,4 @@
 
 ![image](https://github.com/christian-crisologo-lrn/christian-crisologo-lrn/blob/master/banner.gif)
 
-### "Beep...beep...beep..err!" - Broken radio Bumble Bee 
+### "Beep...beep...beep..err!" - Broken radio Bumblebee 
