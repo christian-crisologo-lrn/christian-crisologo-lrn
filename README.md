@@ -20,5 +20,6 @@
     watch();
     eat();
     work();
+    ... error found : activity overload, must remove the last activity
   }
 ```
