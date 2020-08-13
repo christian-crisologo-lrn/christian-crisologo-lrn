@@ -1,9 +1,8 @@
-### HELLO WORLD!! 👋 
+## HELLO WORLD!! 👋 
+![image](https://github.com/christian-crisologo-lrn/christian-crisologo-lrn/blob/master/all-transformers.jpg)
+
+### "WE MUST HAVE COURAGE. WE CAN'T IGNORE THE DANGER. WE MUST CONQUER IT." - Optimus Prime
+
 ![image](https://github.com/christian-crisologo-lrn/christian-crisologo-lrn/blob/master/banner.gif)
 
-- 🔭 Some great things to come soon, watch out for my repo ...
-- 💬 You can ask me anything except the one in your head right now ...
-- 📫 Contact me  ... 
-- ⚡ Fun fact: Did you know the letter 'W' is actually 2 'V' not 'U'
-
-![image](https://github.com/christian-crisologo-lrn/christian-crisologo-lrn/blob/master/optimus.jpg)
+### "Beep...beep...beep..err!" - Broken radio Bumble Bee 
